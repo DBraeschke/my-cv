@@ -66,7 +66,7 @@ education:
   - area: Architecture
     institution: TU Dresden
     date_start: 2006-10-01
-    date_end: 2010-30-09
+    date_end: 2010-09-30
     #summary: |
       
 work:
