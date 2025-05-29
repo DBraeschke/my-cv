@@ -79,10 +79,11 @@ work:
     summary: |2-
       Responsibilities include:
       - Email-, Content- and Social Media Marketing
-      - B2B/B2C Campaign management print/online
+      - Controlling B2B cooperations
+      - Campaign management print/online
       - Editorial and contentual mentoring online-magazine, blog
       - Bugtracking and reporting
-      - Creation FAQs, landingpages,
+      - Articlemanagement onlineshop
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -103,7 +104,7 @@ skills:
         icon: circle-stack
       - name: Wordpress
         description: ''
-        percent: 40
+        percent: 50
         icon: circle-stack
       - name: Google Analytics
         description: ''
@@ -120,7 +121,7 @@ skills:
       - name: Boardgames
         description: ''
         percent: 100
-        icon: board
+        icon: gameboard
       - name: Photography
         description: ''
         percent: 80
@@ -168,4 +169,4 @@ languages:
 
 ## About Me
 
-Denise Braeschke Marketing blabla.
+# I am Denise Braeschke, Marketing Manager...
