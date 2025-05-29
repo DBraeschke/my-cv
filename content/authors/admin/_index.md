@@ -44,10 +44,10 @@ education:
     #date_start: 2015-10-01
     date_end: 2017-09-30
     summary: |
-      Thesis: Comparison of the 1931 shortented published novel 'Fabian' from Erich Kästner with the original text 'der Gang vor die Hunde' (republished in 2013) in context of the beginning nazi dictatorship in Germany.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Thesis: Comparison of the 1931 shortented published novel 'Fabian' written by Erich Kästner with the original text 'der Gang vor die Hunde' (republished in 2013) in context of the beginning nazi dictatorship in Germany.
+   # button:
+     # text: 'Read Thesis'
+     # url: 'https://example.com'
   - area: German Studies and Art History
     institution: Tu Dresden
     date_start: 2015-10-01
