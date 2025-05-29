@@ -1,16 +1,20 @@
 ---
 title: 'L.B.O. - Wie ein sächsischer Strumpf die Welt erobert'
 
-Disclaimer
-This article was first published under the title: 'L.B.O. - Wie ein sächischer Strumpf die Welt erobert' on https://www.carlmarie.de/magazin/wissen/lbo-strumpfwirker-louis-bahner-oberlungwitz/ and is published only as a work sample.
-
 authors:
   - admin
+---
+
+### Disclaimer
+The full article was first published under the title: 'L.B.O. - Wie ein sächischer Strumpf die Welt erobert' on https://www.carlmarie.de/magazin/wissen/lbo-strumpfwirker-louis-bahner-oberlungwitz/.<br>
+The abstract published on this side will only be used as a work sample.
+
+# L.B.O. - Wie ein sächsischer Strumpf die Welt erobert
 
 Die Geschichte der industriellen Strumpfherstellung in Deutschland ist eng verbunden mit dem Namen Louis Bahner und dessen in Oberlungwitz gegründetem Strumpfwirkerbetrieb L.B.O. – welcher später unter dem Namen Elbeo ein glänzendes Beispiel für das deutsche Wirtschaftswunder darstellt und zu einer der führenden Strumpfmarken wird.
 
-subtitle: Stationen der Firmengeschichte
-Grundstein der Strumpfwirkerei – der Handkulierstuhl
+## Stationen der Firmengeschichte
+#### Grundstein der Strumpfwirkerei – der Handkulierstuhl
 
 Strümpfe gibt es schon ziemlich lange, Funde in Ägypten wurden auf das 4.Jh. v. Chr. datiert. Die Menschen hatten wohl schon immer kalte Füße. Doch bis zu den heute üblichen, feinmaschigen Strumpfwaren war es ein langer Weg. Dieser nahm mit William Lee und seiner Idee, die langwierige Handstrickerei zu beschleunigen, seinen Anfang. Im Jahr 1589 entwickelte er den ersten funktionstüchtigen Handkulierstuhl, der sechsmal schneller arbeitete, als es von Hand möglich war.
 
