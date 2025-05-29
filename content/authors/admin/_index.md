@@ -34,42 +34,41 @@ profiles:
     url: https://www.linkedin.com/in/denise-braeschke-67b764156/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Content Creation
+  - Campaign Management
+  - Creative Writing
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BA German Studies
+    institution: TU Dresden
+    #date_start: 2015-10-01
+    date_end: 2017-09-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis: Comparison of the 1931 shortented published novel 'Fabian' from Erich Kästner with the original text 'der Gang vor die Hunde' (republished in 2013) in context of the beginning nazi dictatorship in Germany.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: German Studies and Art History
+    institution: Tu Dresden
+    date_start: 2015-10-01
+    date_end: 2017-09-30
     summary: |
-      GPA: 3.8/4.0
+      Courses included:
+      - 
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: French Studies and Art History
+    institution: TU Dresden
+    date_start: 2013-10-01
+    date_end: 2015-30-09
+    #summary: |
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  - area: Architecture
+    institution: TU Dresden
+    date_start: 2013-10-01
+    date_end: 2015-30-09
+    #summary: |
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
