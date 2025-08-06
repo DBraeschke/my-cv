@@ -3,13 +3,13 @@ title: 'L.B.O. - Wie ein sächsischer Strumpf die Welt erobert'
 
 authors:
   - admin
----
 
 date: '2025-08-06T00:00:00Z'
 doi: ''
 
 tags:
   - sample arcticles
+---
 
 ### Disclaimer
 The full article was first published on 10/18/2018 under the title: 'L.B.O. - Wie ein sächischer Strumpf die Welt erobert' on https://www.carlmarie.de/magazin/wissen/lbo-strumpfwirker-louis-bahner-oberlungwitz/.<br>
