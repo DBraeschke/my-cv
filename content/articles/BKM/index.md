@@ -1,5 +1,5 @@
 ---
-title: 'L.B.O. - Wie ein sächsischer Strumpf die Welt erobert'
+title: 'Brustkrebsmonat Oktober'
 
 authors:
   - admin
@@ -12,12 +12,14 @@ tags:
 ---
 
 ### Disclaimer
-The full article was first published on 10/18/2018 under the title: 'L.B.O. - Wie ein sächischer Strumpf die Welt erobert' on https://www.carlmarie.de/magazin/wissen/lbo-strumpfwirker-louis-bahner-oberlungwitz/.<br>
+The full article was first published on 10/18/2018 under the title: 'Brustkrebsmonat Oktober' on https://www.carlmarie.de/magazin/koerper-seele/brustkrebsmonat-oktober/.<br>
 The abstract published on this side will only be used as a work sample.
 
-# L.B.O. - Wie ein sächsischer Strumpf die Welt erobert
+# Brustkrebsmonat Oktober
 
-Die Geschichte der industriellen Strumpfherstellung in Deutschland ist eng verbunden mit dem Namen Louis Bahner und dessen in Oberlungwitz gegründetem Strumpfwirkerbetrieb L.B.O. – welcher später unter dem Namen Elbeo ein glänzendes Beispiel für das deutsche Wirtschaftswunder darstellt und zu einer der führenden Strumpfmarken wird.
+Seit 1985 gibt es den Brustkrebsmonat Oktober. Eng damit verbunden ist die Pink Ribbon – die pinke Schleife, welche man besonders in diesem Monat an vielen Stellen sieht. Sie soll die Achtsamkeit für Brustkrebs schärfen, für Vorsorgemöglichkeiten, Früherkennung aber auch Behandlung und Nachsorge sensibilisieren – und das weltweit. Denn Brustkrebs geht uns alle an.
+
+Wir von CarlMarie haben uns einmal näher mit dem Thema befasst und stellen Euch deshalb die Idee hinter der Schleife und dem Brustkrebsmonat näher vor.
 
 ## Stationen der Firmengeschichte
 #### Grundstein der Strumpfwirkerei – der Handkulierstuhl
