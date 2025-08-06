@@ -21,12 +21,21 @@ Seit 1985 gibt es den Brustkrebsmonat Oktober. Eng damit verbunden ist die Pink 
 
 Wir von CarlMarie haben uns einmal näher mit dem Thema befasst und stellen Euch deshalb die Idee hinter der Schleife und dem Brustkrebsmonat näher vor.
 
-## Stationen der Firmengeschichte
-#### Grundstein der Strumpfwirkerei – der Handkulierstuhl
+## Brustkrebs ist die häufigste Krebsart
 
-Strümpfe gibt es schon ziemlich lange, Funde in Ägypten wurden auf das 4.Jh. v. Chr. datiert. Die Menschen hatten wohl schon immer kalte Füße. Doch bis zu den heute üblichen, feinmaschigen Strumpfwaren war es ein langer Weg. Dieser nahm mit William Lee und seiner Idee, die langwierige Handstrickerei zu beschleunigen, seinen Anfang. Im Jahr 1589 entwickelte er den ersten funktionstüchtigen Handkulierstuhl, der sechsmal schneller arbeitete, als es von Hand möglich war.
+Brustkrebs zählt neben Haut-, Darm- und Lungenkrebs zu den häufigsten Krebsarten. Laut dem Zentrum für Krebsregisterdaten erkrankten im Jahr 2014 knapp 70000 Frauen (und auch Männer) am sogenannten Mammakarzinom. Trotz dieser extrem hohen Zahl sinkt die Sterblichkeitsrate dank guter Früherkennung und vor allem immer besserer Sensibilisierung für das Thema Früherkennung und Vorsorge immer weiter.
 
-Auf dieser Maschine werden, im Gegensatz zum Stricken von Hand, alle nebeneinanderliegenden Maschen gleichzeitig erzeugt. Dazu ist eine Vielzahl von nebeneinander angeordneten und mit einem Haken versehenen Nadeln nötig. Es entsteht ein einheitliches, flächiges Werkstück. Da dieses natürlich gleichbleibend breit wäre und somit an keinem Bein halten würde, kann man Maschen am Rand hinzu- oder wegnehmen, um so die Form zu verändern. Im Anschluss wird aus dem flachen Stoffstück noch ein Schlauch genäht. Von dieser Methode der Strumpfherstellung kommt auch die bei Damenstrümpfen als äußerst sexy geltende Strumpfnaht.
+## Der Brustkrebsmonat Oktober
 
+Noch immer wissen eigentlich viel zu wenige Menschen um die Risiken, Vorsorge und Behandlung von Brustkrebs. Vorsorgemaßnahmen werden nicht von allen Frauen genutzt und das Bewusstsein für diese Krankheit steigt bei vielen leider erst, wenn jemand im persönlichen Umfeld erkrankt. Der Brustkrebsmonat Oktober soll diesen Missstand mit verstärkter Aufklärung, medialer Präsenz, Veranstaltungen vor Ort und einem breiten Informationsangebot beseitigen.
+Organisationen wie Brustkrebs Deutschland e.V. wollen gezielt die Aufmerksamkeit der Öffentlichkeit auf Forschung, Vorbeugung und Behandlung lenken.
+Historisch gesehen basiert dieser Aktionsmonat auf einer Initiative der American Cancer Society aus dem Jahr 1985. Dabei hatte die Organisation, die bereits seit 1913 existiert, schon vor über 30 Jahren das gleiche Ziel, wie auch heute noch: Forschung, Vorbeugung und Behandlung in der breiten Öffentlichkeit bekannter zu machen.
+Was zunächst auf die USA beschränkt war, verbreitete sich schnell über die ganze Welt und wird heute nicht nur von Vereinen unterstützt, sondern auch von Firmen, Stars und Privatleuten. Organisationen wie Pink Ribbon sind weltweit tätig und haben in vielen Ländern lokale Auskoppelungen. Für Deutschland ist der Verein Pinkribbon Deutschland e.V. zuständig und gibt auf der Website ganzjährig Informationen und ruft zur Unterstützung auf.
 
-picture credit: [pixabay/jarmoluk](pixabay.com/de/photos/strümpfe-strumpfhose-bein-beine-428602/)
+## Was hat es mit der rosa Schleife auf sich?
+
+Grundsätzlich gilt das Symbol der Schleife, egal welcher Farbe, für die Solidarisierung und Unterstützung eines Ereignisses, die Bewusstmachung von Gesundheitsfragen oder anderen Fragestellungen. Dazu kommen die Farben, diese geben dem allgemeinen Symbol eine nähere Bedeutung, die sich jedoch je nach Kontext auch unterscheiden kann.
+Die rosa Schleife wurde das erste Mal im Jahr 1991 von der US-amerikanischen Susan G. Komen Foundation an Teilnehmer des Race for the Cure in New York verteilt. Im Jahr darauf produzierte Charlott Hayley eine pfirsischfarbene Schleife, welche sie an eine Karte mit dem Wortlaut: „Das jährliche Budget des Nationalen Krebs-Instituts beläuft sich auf 1,8 Milliarden US-Dollar und nur 5 Prozent gehen an die Krebs-Bekämpfung. Helfen Sie uns, mit dieser Schleife unsere Gesetzgeber und Amerika zu alarmieren“ heftete und verkaufte, um auf das Thema Brustkrebs aufmerksam zu machen.
+Zeitgleich suchten die Herausgeberin der Zeitschrift Self, Alexandra Penney, und Evelyn Lauder, Vizepräsidentin von Estée Lauder, nach einer Idee, die zweite Ausgabe des Nationalen Brustkrebs-Bewusstseins-Monats weltweit zu bewerben. Die Schleife erschien Ihnen als eine gute Idee, Hayley jedoch lehnte eine Zusammenarbeit ab und so entstand schließlich die pinke Schleife, welche sich auch heute noch als Symbol findet.
+
+picture credit: [pixabay/marcojean20](https://pixabay.com/de/photos/brustkrebs-einheit-frauen-verhütung-6701684/)
