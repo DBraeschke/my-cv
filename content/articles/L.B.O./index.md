@@ -25,3 +25,6 @@ Die Geschichte der industriellen Strumpfherstellung in Deutschland ist eng verbu
 Strümpfe gibt es schon ziemlich lange, Funde in Ägypten wurden auf das 4.Jh. v. Chr. datiert. Die Menschen hatten wohl schon immer kalte Füße. Doch bis zu den heute üblichen, feinmaschigen Strumpfwaren war es ein langer Weg. Dieser nahm mit William Lee und seiner Idee, die langwierige Handstrickerei zu beschleunigen, seinen Anfang. Im Jahr 1589 entwickelte er den ersten funktionstüchtigen Handkulierstuhl, der sechsmal schneller arbeitete, als es von Hand möglich war.
 
 Auf dieser Maschine werden, im Gegensatz zum Stricken von Hand, alle nebeneinanderliegenden Maschen gleichzeitig erzeugt. Dazu ist eine Vielzahl von nebeneinander angeordneten und mit einem Haken versehenen Nadeln nötig. Es entsteht ein einheitliches, flächiges Werkstück. Da dieses natürlich gleichbleibend breit wäre und somit an keinem Bein halten würde, kann man Maschen am Rand hinzu- oder wegnehmen, um so die Form zu verändern. Im Anschluss wird aus dem flachen Stoffstück noch ein Schlauch genäht. Von dieser Methode der Strumpfherstellung kommt auch die bei Damenstrümpfen als äußerst sexy geltende Strumpfnaht.
+
+
+picture credit: [pixabay/jarmoluk](pixabay.com/de/photos/strümpfe-strumpfhose-bein-beine-428602/)
