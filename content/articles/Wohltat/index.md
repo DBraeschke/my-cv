@@ -51,4 +51,4 @@ Die Organisation der Wahl sollte vertrauenswürdig sein, hat sie eine Website, s
 
 Damit ist gemeint, nicht einfach eine gewisse Summe zu überweisen, sondern diese an einen Zweck zu binden. So ist sichergestellt, dass das Geld auch für das Projekt genutzt wird, für das man es bestimmt hat. Allerdings sollte der Zweck nicht zu eng gesteckt werden.
 
-picture credit: [pixabay/marcojean20](https://pixabay.com/de/photos/brustkrebs-einheit-frauen-verhütung-6701684/)
+picture credit: [pixabay/ai](https://pixabay.com/de/vectors/sich-freiwillig-melden-wohlt%C3%A4tigkeit-1326758/)
