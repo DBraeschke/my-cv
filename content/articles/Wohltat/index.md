@@ -34,21 +34,15 @@ Diese Zahlen sagen hingegen wenig über die tatsächlich geleistete Hilfe aus. D
 ## Spenden für einen guten Zweck – worauf ist zu achten?
 
 Spenden tut nicht nur etwas für das eigene Gewissen, sondern auch für den Geldbeutel. Denn wer spendet, kann dies bis zum einem Anteil von 20% auf die eigenen Einkünfte bei der Steuer anrechnen lassen. Das sollte zwar nicht der Hauptgrund sein zu spenden, ist aber ein kleiner Bonus, den uns der Staat für unsere Bereitschaft zu helfen anerkennt. Trotz allem sind viele Menschen gehemmt Geld zu spenden, haben Angst, dass das Geld den Bestimmungsort gar nicht erreicht oder anderweitig vertan wird. Um das zu verhindern, hilft es, ein paar einfache Tipps zu befolgen.
-1. Was will ich unterstützen?
-
+**1. Was will ich unterstützen?**
 Dafür muss man sich erst einmal ein paar Fragen stellen und so das Ziel grob umreißen:
 - Welche Themen sind mir wichtig?
 - Möchte ich bei einer erneuten Spende das gleiche Projekt unterstützen, oder lieber etwas Neues suchen?
 - Wo bewirkt meine Spende am meisten?
-
 Sind diese Fragen beantwortet und eine grobe Idee gefunden, folgt der nächste Schritt.
-
-2. Informieren
-
+**2. Informieren**
 Die Organisation der Wahl sollte vertrauenswürdig sein, hat sie eine Website, sollten Informationen über Projekte aktuell sein. Bewertungen helfen zusätzlich, die Organisation einzuschätzen. Eine seriöse Organisation ist gemeinnützig und kann das auch nachweisen.
-
-3. Nutzbringend spenden
-
+**3. Nutzbringend spenden**
 Damit ist gemeint, nicht einfach eine gewisse Summe zu überweisen, sondern diese an einen Zweck zu binden. So ist sichergestellt, dass das Geld auch für das Projekt genutzt wird, für das man es bestimmt hat. Allerdings sollte der Zweck nicht zu eng gesteckt werden.
 
 picture credit: [pixabay/marcojean20](https://pixabay.com/de/photos/brustkrebs-einheit-frauen-verhütung-6701684/)
