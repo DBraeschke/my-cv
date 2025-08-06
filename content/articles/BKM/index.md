@@ -13,17 +13,19 @@ tags:
 
 ### Disclaimer
 The full article was first published on 10/18/2018 under the title: 'Brustkrebsmonat Oktober' on https://www.carlmarie.de/magazin/koerper-seele/brustkrebsmonat-oktober/.<br>
-The abstract published on this side will only be used as a work sample.
+The abstract published on this side contains only cutouts from the original article and will only be used as a work sample.
 
 # Brustkrebsmonat Oktober
 
 Seit 1985 gibt es den Brustkrebsmonat Oktober. Eng damit verbunden ist die Pink Ribbon – die pinke Schleife, welche man besonders in diesem Monat an vielen Stellen sieht. Sie soll die Achtsamkeit für Brustkrebs schärfen, für Vorsorgemöglichkeiten, Früherkennung aber auch Behandlung und Nachsorge sensibilisieren – und das weltweit. Denn Brustkrebs geht uns alle an.
 
-Wir von CarlMarie haben uns einmal näher mit dem Thema befasst und stellen Euch deshalb die Idee hinter der Schleife und dem Brustkrebsmonat näher vor.
+...
 
 ## Brustkrebs ist die häufigste Krebsart
 
 Brustkrebs zählt neben Haut-, Darm- und Lungenkrebs zu den häufigsten Krebsarten. Laut dem Zentrum für Krebsregisterdaten erkrankten im Jahr 2014 knapp 70000 Frauen (und auch Männer) am sogenannten Mammakarzinom. Trotz dieser extrem hohen Zahl sinkt die Sterblichkeitsrate dank guter Früherkennung und vor allem immer besserer Sensibilisierung für das Thema Früherkennung und Vorsorge immer weiter.
+
+...
 
 ## Der Brustkrebsmonat Oktober
 
@@ -31,6 +33,8 @@ Noch immer wissen eigentlich viel zu wenige Menschen um die Risiken, Vorsorge un
 Organisationen wie Brustkrebs Deutschland e.V. wollen gezielt die Aufmerksamkeit der Öffentlichkeit auf Forschung, Vorbeugung und Behandlung lenken.
 Historisch gesehen basiert dieser Aktionsmonat auf einer Initiative der American Cancer Society aus dem Jahr 1985. Dabei hatte die Organisation, die bereits seit 1913 existiert, schon vor über 30 Jahren das gleiche Ziel, wie auch heute noch: Forschung, Vorbeugung und Behandlung in der breiten Öffentlichkeit bekannter zu machen.
 Was zunächst auf die USA beschränkt war, verbreitete sich schnell über die ganze Welt und wird heute nicht nur von Vereinen unterstützt, sondern auch von Firmen, Stars und Privatleuten. Organisationen wie Pink Ribbon sind weltweit tätig und haben in vielen Ländern lokale Auskoppelungen. Für Deutschland ist der Verein Pinkribbon Deutschland e.V. zuständig und gibt auf der Website ganzjährig Informationen und ruft zur Unterstützung auf.
+
+...
 
 ## Was hat es mit der rosa Schleife auf sich?
 
