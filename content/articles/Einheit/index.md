@@ -37,4 +37,4 @@ Fair ist diese Einkommenslücke nicht. Gerade in einer Zeit, in der immer mehr M
 
 ...
 
-picture credit: [pixabay/marcojean20](https://pixabay.com/de/photos/brustkrebs-einheit-frauen-verhütung-6701684/)
+picture credit: [pixabay/kschneider2991](https://pixabay.com/de/photos/geld-m%C3%BCnzen-stapel-2180330/)
