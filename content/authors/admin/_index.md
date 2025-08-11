@@ -93,23 +93,23 @@ skills:
       - name: Adobe Photoshop
         description: ''
         percent: 70
-        icon: code-bracket
+        icon: costum/adobeps
       - name: Adobe Lightroom
         description: ''
         percent: 80
-        icon: chart-bar
+        icon: ostum/adobelr
       - name: Canva
         description: ''
         percent: 60
-        icon: circle-stack
+        icon: ostum/canva
       - name: Wordpress
         description: ''
         percent: 50
-        icon: circle-stack
+        icon: ostum/wp
       - name: Google Analytics
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: costum/ga
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -121,7 +121,7 @@ skills:
       - name: Boardgames
         description: ''
         percent: 100
-        icon: gameboard
+        icon: costum/dice
       - name: Photography
         description: ''
         percent: 80
