@@ -97,15 +97,15 @@ skills:
       - name: Adobe Lightroom
         description: ''
         percent: 80
-        icon: ostum/adobelr
+        icon: costum/adobelr
       - name: Canva
         description: ''
         percent: 60
-        icon: ostum/canva
+        icon: costum/canva
       - name: Wordpress
         description: ''
         percent: 50
-        icon: ostum/wp
+        icon: costum/wp
       - name: Google Analytics
         description: ''
         percent: 40

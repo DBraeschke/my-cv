@@ -39,7 +39,6 @@ sections:
 
         As a Marketing Manager, my focus in work is on campaign management, Email, Social Media and B2C marketing. Trying out new things and beeing creative 
         
-        adfgv
     design:
       columns: '1'
   - block: collection
