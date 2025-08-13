@@ -93,23 +93,23 @@ skills:
       - name: Adobe Photoshop
         description: ''
         percent: 70
-        icon: costum/adobeps
+       # icon: costum/adobeps
       - name: Adobe Lightroom
         description: ''
         percent: 80
-        icon: adobelr
+       # icon: adobelr
       - name: Canva
         description: ''
         percent: 60
-        icon: costum/canva
+       # icon: costum/canva
       - name: Wordpress
         description: ''
         percent: 50
-        icon: costum/wp
+       # icon: costum/wp
       - name: Google Analytics
         description: ''
         percent: 40
-        icon: costum/ga
+       # icon: costum/ga
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -117,15 +117,15 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: person-simple-walk
+       # icon: person-simple-walk
       - name: Boardgames
         description: ''
         percent: 100
-        icon: costum/dice
+       # icon: costum/dice
       - name: Photography
         description: ''
         percent: 80
-        icon: camera
+       # icon: camera
 
 languages:
   - name: English
