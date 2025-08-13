@@ -37,7 +37,7 @@ sections:
       text: |-
         In this place I will post samples of articles previously written by me, blog about things I'm interested in and display my experiences.
 
-        As a Marketing Manager, my focus in work is on campaign management, Email, Social Media and B2C marketing. Trying out new things and beeing creative 
+        As a Marketing Manager, my focus in work is on campaign management, Email, Social Media and B2C Marketing. Trying out new things and beeing creative is part of me and my work.
         
     design:
       columns: '1'

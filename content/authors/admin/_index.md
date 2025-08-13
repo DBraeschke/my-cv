@@ -97,7 +97,7 @@ skills:
       - name: Adobe Lightroom
         description: ''
         percent: 80
-        icon: costum/adobelr
+        icon: adobelr
       - name: Canva
         description: ''
         percent: 60
